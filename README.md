@@ -4,7 +4,7 @@ Graphic Computer
 ### hw1_Car
 
 #### 开发环境
-  - **VS2017+Opengl:**project->管理Nuget程序包->搜索nupengl->安装`nupengl.core`和`nupengl.core.redist`
+  - **VS2017+Opengl:** project->管理Nuget程序包->搜索nupengl->安装`nupengl.core`和`nupengl.core.redist`
   - **Ubuntu 18.04**
 #### 内容
   - 立方体(cube)
