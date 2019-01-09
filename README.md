@@ -1,5 +1,5 @@
-# GC
-Graphic Computer
+# CG
+Computer Graphic
 
 ### hw1_Car
 
@@ -11,3 +11,8 @@ Graphic Computer
   - 三角形(triangle)
   - 会移动的小车(car)
   - 一些别的例子(code)
+  
+### hw2_Raytracing
+
+#### Ubuntu
+基于Ray tracing in a week系列完成
