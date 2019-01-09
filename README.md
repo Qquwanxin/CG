@@ -1,18 +1,25 @@
 # CG
 Computer Graphic
 
-### hw1_Car
+### hw1
 
-#### 开发环境
-  - **VS2017+Opengl:** project->管理Nuget程序包->搜索nupengl->安装`nupengl.core`和`nupengl.core.redist`
+#### Development environment
+  - **VS2017+Opengl:** Project->Manage Nuget Package->Search nupengl->Install `nupengl.core` and `nupengl.core.redist`
   - **Ubuntu 18.04**
-#### 内容
-  - 立方体(cube)
-  - 三角形(triangle)
-  - 会移动的小车(car)
-  - 一些别的例子(code)
+#### 
+  - cube
+  - triangle
+  - car
+  - some other examples
   
-### hw2_Raytracing
+### hw2-Ray Tracing
+- The entire program runs under Ubuntu. It has been tested in Ubuntu 18.10. 
+- The file includes many header files and c++ files. The main.cc file is the main run file.
+- Use the g++ instruction to compile it and then output to a ppm file via the >& instruction.
+- This process can take a long time due to the large size of the data. Be patient or just change some parameters.
+- Eventually you will get ppm files in the run directory.
 
-#### Ubuntu
-基于Ray tracing in a week系列完成
+Implement raytracing, phong shading and texture mapping etc. for cubes and spheres and the first two jobs for objects corresponding to the read off file. 
+To view ppm files, if it is a Linux system, just Double click to open to view. Otherwise such as windows/mac, you need to download a ppm viewer.
+
+There are some output of my results in the folder /images. 
